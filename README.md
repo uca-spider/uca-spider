@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm Fulandi Hudza Grahitama  
 
-![Rocket Launch](https://media.giphy.com/media/11tTNkNy1SdXGg/giphy.gif)
-
 ## 🚀 About Me  
 I'm a **backend developer** and a 5th-semester student in **Applied Informatics Engineering (D4 Teknik Informatika)**.  
 I specialize in building scalable and efficient web applications using Golang, Node.js, and React.  
