@@ -15,7 +15,7 @@ I specialize in building scalable and efficient web applications using Golang, N
 - **Tools:** Git, Docker, Swagger  
 
 ## 🌟 Featured Projects  
-- [**POS Application**](https://github.io/uca-spider/swagger-pos)  
+- [**POS Application**](https://uca-spider.github.io/swagger-pos)  
   A point-of-sale application with sales reporting.  
 - [**Student Financial Manager**]  
   A portfolio project for managing student finances using Next.js and Supabase.  
