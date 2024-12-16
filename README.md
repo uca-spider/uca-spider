@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Fulandi Hudza Grahitama  
 
-![Laptop Coding](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
+![Rocket Launch](https://media.giphy.com/media/11tTNkNy1SdXGg/giphy.gif)
 
 ## 🚀 About Me  
 I'm a **backend developer** and a 5th-semester student in **Applied Informatics Engineering (D4 Teknik Informatika)**.  
