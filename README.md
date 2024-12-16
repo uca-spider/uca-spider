@@ -15,14 +15,14 @@ I specialize in building scalable and efficient web applications using Golang, N
 - **Tools:** Git, Docker, Swagger  
 
 ## 🌟 Featured Projects  
-- [**POS Application**](https://github.com/username/pos-app)  
+- [**POS Application**](https://github.com/uca-spider/swagger-pos)  
   A point-of-sale application with sales reporting.  
-- [**Student Financial Manager**](https://github.com/username/financial-manager)  
+- [**Student Financial Manager**]  
   A portfolio project for managing student finances using Next.js and Supabase.  
 
 ## 📊 GitHub Stats  
-![Fulandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=FulandiHudzaGrahitama&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FulandiHudzaGrahitama&layout=compact&theme=radical)  
+![Fulandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=uca-spider&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uca-spider&layout=compact&theme=radical)  
 
 ## 📫 Let's Connect!  
 - 💼 [LinkedIn](https://linkedin.com/in/fulandi)  
