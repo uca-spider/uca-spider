@@ -1,10 +1,6 @@
 # Hi there! 👋 I'm Fulandi Hudza Grahitama  
 
-![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-
-
-
-
+![Books Learning](https://media.giphy.com/media/3o7TKP9ln7P0AqMy6g/giphy.gif)
 
 ## 🚀 About Me  
 I'm a **backend developer** and a 5th-semester student in **Applied Informatics Engineering (D4 Teknik Informatika)**.  
